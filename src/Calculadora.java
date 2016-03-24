@@ -13,6 +13,7 @@ public class Calculadora {
 		return b - a;
 	}
 	
+    //criando o metodo de dividir
 	public Integer dividir(Integer a, Integer b){
 		return a / b;
 	}
